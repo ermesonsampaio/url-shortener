@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/Ermeso/url-shortener.git
+git clone https://github.com/ermesonsampaio/url-shortener.git
 
 cd url-shortener
 
