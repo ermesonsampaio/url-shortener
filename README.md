@@ -1,5 +1,7 @@
 # Url Shortener
 
+[![License](https://img.shields.io/github/license/ermesonsampaio/url-shortener?style=for-the-badge)](https://github.com/ermesonsampaio/url-shortener/blob/main/LICENSE)
+
 ## Installation
 
 ```bash
