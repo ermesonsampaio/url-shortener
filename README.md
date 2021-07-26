@@ -49,5 +49,5 @@ An example of the ormconfig.json file
 
 ## Using insomnia to test this API
 
-- Open **Preferences > Data > Import Data > From File**
-- Then navigate to the project folder and select the file inside the insomnia folder.
+1. Open **Preferences > Data > Import Data > From File**
+2. Then navigate to the project folder and select the file inside the insomnia folder.
